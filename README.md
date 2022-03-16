@@ -20,4 +20,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the website.
 
-The Website is hosted on Netlify and has a domain served from [Name.com] (https://www.name.com)
+The Website is hosted on Netlify and has a domain served from [Name.com](https://www.name.com)
