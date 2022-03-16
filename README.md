@@ -1,5 +1,6 @@
 Hyper Gadgets Uganda is an Ecommerce store located in Kampala, Uganda.
 [Live Link](https://hypergadgets.tech). Project was build using Nextjs.
+Project was built to demonstrate frontend skills and also learn working with Nextjs
 
 ## Getting Started
 
